@@ -1,2 +1,2 @@
-echo "sleep for 6 sec"
-sleep 6
+echo "sleep for 5 sec"
+sleep 5
